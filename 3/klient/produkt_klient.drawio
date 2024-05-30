@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2024-05-30T14:04:02.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 OPR/110.0.0.0" etag="2QqimdObuCduAFBV7Oo9" version="24.4.10" type="device">
+  <diagram name="Strona-1" id="bhdQhS5pwnZJ3bleK1gx">
+    <mxGraphModel dx="1620" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xoCfZFMou_unqcNLqf03-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="1030" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-3" value="Przejdź do koszyka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="55" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-5" value="Wyloguj się" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="100" width="1030" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOGO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-35" value="Nazwa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-36" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Duis suscipit eget lectus in rhoncus. In hac habitasse platea dictumst. Aenean laoreet id felis eu luctus. Pellentesque et blandit augue. Suspendisse mi nisl, eleifend at nisi eget, posuere tempor tortor. Vivamus dignissim, orci non facilisis semper, eros tortor placerat lacus, id ullamcorper nisi sapien eget lacus. Aliquam tincidunt enim in imperdiet pulvinar. Etiam ut tincidunt lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-38" value="Cena" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Dodaj do koszyka&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="395" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-41" value="Ilość" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="395" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-43" value="Ilość" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="395" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="160" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-45" value="Nazwa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="444" y="167.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xoCfZFMou_unqcNLqf03-47" value="Cena" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="449" y="227.5" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
