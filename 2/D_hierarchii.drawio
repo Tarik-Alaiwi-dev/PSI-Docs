@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" modified="2024-06-02T13:41:00.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 OPR/110.0.0.0" etag="X4F6ALex8FNdraNPWr5t" version="24.4.13" type="device">
+  <diagram name="Strona-1" id="y1WXwURWoTZNS1ihxhk1">
+    <mxGraphModel dx="2447" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="Robienie zakupów online" treeRoot="1" id="wuPbgHy9US9a-4okFLtj-13">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="280" y="720" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-13" target="wuPbgHy9US9a-4okFLtj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-13" target="wuPbgHy9US9a-4okFLtj-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-15" value="Identyfikacja użytkowników" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="597" y="880" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-14" value="Zarządzanie produkatami" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="-80" y="870" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-16" value="Przejście do koszyka" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="306" y="880" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-19" value="Logowanie" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="660" y="980" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="wuPbgHy9US9a-4okFLtj-19" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Logowanie" treeRoot="1" id="wuPbgHy9US9a-4okFLtj-26">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="660" y="980" width="110" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-26" target="wuPbgHy9US9a-4okFLtj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-26" target="wuPbgHy9US9a-4okFLtj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-27" value="Wylogowanie" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="570" y="1140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-28" value="Rejestracja" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="780" y="1140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Złożenie zamówienia" treeRoot="1" id="wuPbgHy9US9a-4okFLtj-29">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="335" y="980" width="110" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-16" target="wuPbgHy9US9a-4okFLtj-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="950" as="sourcePoint" />
+            <mxPoint x="720" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.539;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="900" as="sourcePoint" />
+            <mxPoint x="360" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-14" target="wuPbgHy9US9a-4okFLtj-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="950" as="sourcePoint" />
+            <mxPoint x="720" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Dodawanie produktów" treeRoot="1" id="wuPbgHy9US9a-4okFLtj-33">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="140" y="990" width="110" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Edytowanie produktów" treeRoot="1" id="wuPbgHy9US9a-4okFLtj-35">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="-10" y="990" width="110" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-14" target="wuPbgHy9US9a-4okFLtj-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="940" as="sourcePoint" />
+            <mxPoint x="90" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-14" target="wuPbgHy9US9a-4okFLtj-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="127" y="950" as="sourcePoint" />
+            <mxPoint x="-90" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Usuwanie produktów" treeRoot="1" id="wuPbgHy9US9a-4okFLtj-38">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="-140" y="990" width="110" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wuPbgHy9US9a-4okFLtj-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuPbgHy9US9a-4okFLtj-14" target="wuPbgHy9US9a-4okFLtj-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="127" y="950" as="sourcePoint" />
+            <mxPoint x="-230" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Zmiana dostępności produktów" treeRoot="1" id="wuPbgHy9US9a-4okFLtj-65">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="-280" y="990" width="110" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
